@@ -8,14 +8,14 @@ export const data=[
         id:1,
         name:"Python Snake AI",
         image:Snake,
-        github:"https://github.com/zanehirning/RecursiveWebCrawler",
+        github:"https://github.com/zanehirning/snake-game-ai",
         live:"",
     },
     {
         id:2,
         name:"Recursive Web Crawler",
         image:WebCrawler,
-        github:"https://github.com/zanehirning/snake-game-ai",
+        github:"https://github.com/zanehirning/RecursiveWebCrawler",
         live:"",
     },
     {
