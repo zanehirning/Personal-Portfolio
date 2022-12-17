@@ -16,6 +16,7 @@ const Work = () => {
             Work
           </p>
           <p className='py-6'>Check out some of my projects!</p>
+          <p className='py-6'>// Demo button will be complete shortly!</p>
         </div>
 
 {/* container for projects */}
