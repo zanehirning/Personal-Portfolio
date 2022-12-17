@@ -8,7 +8,7 @@ export const data=[
         id:1,
         name:"Python Snake AI",
         image:Snake,
-        github:"https://github.com/zanehirning/snake-game-ai",
+        github:"https://github.com/zanehirning/ai-snake-game",
         live:"",
     },
     {
@@ -20,9 +20,9 @@ export const data=[
     },
     {
         id:3,
-        name:"FlappyBird Game AI (W.I.P.)",
+        name:"FlappyBird Game AI",
         image:FlappyBird,
-        github:"",
+        github:"https://github.com/zanehirning/Flappy-Bird-AI",
         live:"",
     },
 
