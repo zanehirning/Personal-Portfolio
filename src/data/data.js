@@ -30,7 +30,7 @@ export const data=[
         id:4,
         name:"2048 Game AI (W.I.P)",
         image:TwentyFortyEight,
-        github:"https://github.com/zanehirning/Flappy-Bird-AI",
+        github:"https://github.com/zanehirning/2048-AI",
         live:"",
     },
 
