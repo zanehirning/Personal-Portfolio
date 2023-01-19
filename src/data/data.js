@@ -4,6 +4,7 @@ import WebCrawler from '../assets/projects/web_crawler.jpg'
 import FlappyBird from '../assets/projects/flappy-bird.jpg'
 import TwentyFortyEight from '../assets/projects/2048.jpg'
 import Gold from '../assets/projects/gold.jpg'
+import Url from '../assets/projects/url.png'
 
 export const data=[
     {
@@ -43,9 +44,9 @@ export const data=[
     },
     {
         id:6,
-        name:"2048 Game AI (W.I.P)",
-        image:TwentyFortyEight,
-        github:"https://github.com/zanehirning/2048-AI",
+        name:"Url Shortener",
+        image:Url,
+        github:"https://github.com/zanehirning/django-urlshortener.git",
         live:"",
     },
 
